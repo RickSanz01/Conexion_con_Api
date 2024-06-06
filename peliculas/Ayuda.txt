@@ -1,0 +1,30 @@
+Bienvenida a la Página de Ayuda
+"¡Bienvenido a la Página de Ayuda! Aquí encontrarás respuestas a las preguntas más frecuentes y guías paso a paso para disfrutar al máximo de nuestra página web de películas. Si necesitas asistencia adicional, no dudes en contactarnos."
+
+Preguntas Frecuentes
+¿Cómo puedo registrarme en la web?
+"Para registrarte, haz clic en el botón 'Registrarse' en la esquina superior derecha de la página. Completa el formulario con tu información personal y confirma tu correo electrónico. ¡Así de fácil!"
+
+¿Cómo encuentro una película específica?
+"Utiliza la barra de búsqueda en la parte superior de la página. Introduce el título de la película, el nombre del director o un actor principal. También puedes explorar por géneros o categorías en el menú principal."
+
+¿Cómo puedo ver una película?
+"Una vez que encuentres la película que deseas ver, haz clic en su título. Serás redirigido a la página de la película, donde encontrarás el botón 'Ver ahora'. Haz clic en él y elige la calidad de reproducción que prefieres."
+
+Solución de Problemas
+La película no se carga o se detiene constantemente. ¿Qué puedo hacer?
+"Primero, asegúrate de que tu conexión a internet sea estable. Intenta recargar la página o limpiar la caché de tu navegador. Si el problema persiste, prueba con otro navegador o dispositivo. Si aún necesitas ayuda, contáctanos."
+
+No puedo iniciar sesión en mi cuenta.
+"Verifica que estás utilizando la dirección de correo electrónico y la contraseña correctas. Si olvidaste tu contraseña, haz clic en '¿Olvidaste tu contraseña?' y sigue las instrucciones para restablecerla. Si el problema continúa, ponte en contacto con nuestro soporte técnico."
+
+Contacto
+¿Necesitas más ayuda?
+"Si no encontraste la respuesta a tu pregunta en nuestra Página de Ayuda, estamos aquí para asistirte. Envía un correo electrónico a [correo de soporte] o utiliza el formulario de contacto a continuación. Nuestro equipo de soporte te responderá lo antes posible."
+
+Consejos y Trucos
+Optimiza tu experiencia de visualización
+"Para disfrutar de la mejor calidad de imagen y sonido, asegúrate de tener una conexión a internet rápida y estable. Te recomendamos usar auriculares o un sistema de sonido envolvente para una experiencia más inmersiva."
+
+Explora nuestras listas de recomendaciones
+"Visita nuestras listas de películas recomendadas por género, popularidad y críticas de usuarios. Descubre joyas ocultas y clásicos que no puedes perderte."

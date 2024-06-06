@@ -1,0 +1,14 @@
+header {
+    margin: 2%;
+  }
+  
+  .formulario {
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+  }
+  
+  input {
+    margin: 1% 0;
+  }

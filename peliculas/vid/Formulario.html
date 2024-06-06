@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario</title>
+  <link rel="stylesheet" href="/css/formulario.css">
+</head>
+<body>
+
+  <header>
+    <h1 id="titulo_principal">Formulario</h1>
+  </header>
+
+  <main>
+    <section id="sectionCalc">
+      <h2 class="titulo_form">Datos</h2>
+      
+      <div id="mensajes">
+
+      </div>
+
+      <div id="errores" class="errores">
+
+      </div>
+
+      <form>
+        <div class="campos">
+          <input type="text" name="nombre" id="nombre" placeholder="Nombre"> <br>
+          <input type="text" name="apellido" id="apellido" placeholder="Apellido"> <br>
+          <input type="text" name="email" id="email" placeholder="Email"> <br>
+          <input type="text" name="pais" id="pais" placeholder="Pais"> <br>
+          <input type="text" name="nombre" id="nombre" placeholder="Nombre"> <br>
+        </div>
+
+        <div class="botonera"> <br>
+          <button type="button" onclick="calcular()">Enviar</button>
+          <button type="reset">Limpiar</button>
+        </div>
+      </form>
+
+      <div id="resultados" class="resultados">
+
+      </div>
+
+      <p>Párrafo Uno</p>
+      <p>Párrafo Dos</p>
+      <p>Párrafo Tres</p>
+
+      <img id="img_change" src="https://picsum.photos/id/43/200/300" alt="">
+      <button type="button" onclick="cambiarImg()">Imagen</button>
+
+      <h3 id="titulo_color">Titulo color Negro</h3>
+      <button type="button" onclick="cambiarColor()">Cambiar Color</button>
+
+    </section>
+  </main>
+
+  <script src="/js/formulario.js"></script>
+</body>
+</html>

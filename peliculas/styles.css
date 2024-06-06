@@ -1,0 +1,21 @@
+.texto {
+    font-size: 400%;
+    color: red;
+    animation: CavernsFilms 0.5s linear infinite;
+}
+
+@keyframes CavernsFilms {
+    0%, 100% {
+        text-shadow: 0 0 30px yellow ;
+        
+    }
+    25% {
+        text-shadow: 0 0 30px orange;
+    }
+    50% {
+        text-shadow: 0 0 30px white;
+    }
+    75% {
+        text-shadow: 0 0 30px cyan;
+    }
+}
